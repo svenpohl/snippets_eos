@@ -8,7 +8,7 @@ Shows the last transactions of an account_name.
 V.1.0 (15.aug.2018) - sven.pohl@zen-systems.de
 
 based on:
-curl --request POST  --url https://eos.greymass.com/v1/history/get_actions  --data '{"account_name":"cryptobeings","pos":0,"offset":200, "json":true }'
+curl --request POST  --url https://eos.greymass.com/v1/history/get_actions  --data '{"account_name":"eosnewyorkio","pos":0,"offset":200, "json":true }'
 
 */
 
